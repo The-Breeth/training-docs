@@ -1,5 +1,5 @@
 ---
-title: My Site
+title: Breeth
 toc: false
 ---
 
@@ -14,4 +14,4 @@ This is the landing page.
 
 ## Documentation
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+For more information, visit [Breeth](https://github.com/The-Breeth).
