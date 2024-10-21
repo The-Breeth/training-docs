@@ -179,4 +179,4 @@ JWT_SECRET=supersecretkey
 
 ## Conclusion
 
-The backend of `test_pp_pannel` is designed with security, scalability, and maintainability in mind. By leveraging modern Node.js frameworks and libraries such as Express, Joi, Helmet, and others, the backend provides a solid foundation for handling HTTP requests, managing user sessions, and securely validating incoming data.
+The backend of project is designed with security, scalability, and maintainability in mind. By leveraging modern Node.js frameworks and libraries such as Express, Joi, Helmet, and others, the backend provides a solid foundation for handling HTTP requests, managing user sessions, and securely validating incoming data.

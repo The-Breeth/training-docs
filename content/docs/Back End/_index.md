@@ -25,7 +25,7 @@ This backend project is structured for a Node.js application using Express. It i
 ### Folder Structure
 
 ```plaintext
-└── 📁test_pp_pannel
+└── 📁be-project
     └── 📁app
         └── index.js
         └── server.js

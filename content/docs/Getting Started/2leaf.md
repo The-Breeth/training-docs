@@ -10,7 +10,7 @@ next: docs/Getting Started/3leaf
 
 ## Overview
 
-This document provides an overview of the technologies used in the frontend of the test_pp_pannel project, which is built using modern web development tools and libraries. The primary goal is to create an interactive and user-friendly web application with a responsive design.
+This document provides an overview of the technologies used in the frontend of the project, which is built using modern web development tools and libraries. The primary goal is to create an interactive and user-friendly web application with a responsive design.
 
 ## Technologies Used
 
