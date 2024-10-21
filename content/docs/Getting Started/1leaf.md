@@ -1,8 +1,9 @@
 ---
 title: Quick Start
 type: docs
+weight: 1
 prev: docs/Getting Started
-next: docs/Getting Started/leaf-2
+next: docs/Getting Started/1leaf
 ---
 # Setting Up Your Development Environment
 

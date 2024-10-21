@@ -1,6 +1,7 @@
 ---
 title: Getting Started
 type: docs
+weight: 1
 next: docs/Getting Started/leaf-1
 prev: docs
 sidebar:
