@@ -2,7 +2,7 @@
 title: Getting Started
 type: docs
 weight: 1
-next: docs/Getting Started/leaf-1
+next: docs/Getting Started/1leaf
 prev: docs
 sidebar:
   open: true
@@ -19,7 +19,7 @@ In this section, you will find comprehensive guidance on:
 3. **Getting Acquainted with Development Tools**: Learn about the development tools and workflows that we use at Breeth, including version control with Git, code formatting, and more.
 
 ### Importance of a Solid Foundation
-Establishing a strong foundation is crucial for effective development. By following the guidelines in this section, you will set yourself up for success, enabling you to contribute to our projects seamlessly. 
+Establishing a strong foundation is crucial for effective development. By following the guidelines in this section, you will set yourself up for success, enabling you to contribute to our projects seamlessly.
 
 ### Next Steps
 Once you’ve completed the setup of your development environment, you’ll be ready to move on to the next chapter, where we will delve into the specifics of configuring your tools and running your first project.
