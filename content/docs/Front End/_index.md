@@ -5,7 +5,7 @@ weight: 2
 # next: docs/Front End/leaf-1
 prev: docs/Getting Started
 sidebar:
-  open: true
+  open: false
 ---
 
 ### Frontend Project Overview
