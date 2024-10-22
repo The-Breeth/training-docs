@@ -1,9 +1,9 @@
 ---
 title: FontEnd
 type: docs
-weight: 2
-prev: docs/Getting Started/1leaf
-next: docs/Getting Started/3leaf
+weight: 1
+prev: docs/Front End
+next: docs/Front End/2leaf
 ---
 
 # Frontend Training Documentation

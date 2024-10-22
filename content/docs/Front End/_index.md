@@ -2,8 +2,8 @@
 title: Front End
 type: docs
 weight: 2
-# next: docs/Front End/leaf-1
-prev: docs/Getting Started
+next: docs/Front End/1leaf
+prev: docs/Getting Started/1leaf
 sidebar:
   open: false
 ---

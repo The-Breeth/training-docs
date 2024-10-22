@@ -1,9 +1,9 @@
 ---
 title: BackEnd
 type: docs
-weight: 3
-prev: docs/Getting Started/2leaf
-next: docs/Front End
+weight: 1
+next: docs/Getting Started/2leaf
+prev: docs/Back End
 ---
 
 ### Backend Project overview
@@ -134,29 +134,37 @@ The project is organized in a way to maintain separation of concerns and keep th
 ### Start the Application
 
 To start the application, use the following command:
+
 ```bash
 npm run start
 ```
+
 This uses `babel-node` to transpile ES6+ code on the fly.
 
 ### Development Mode
 
 To run the application in development mode with auto-reload (via `nodemon`), use:
+
 ```bash
 npm run dev
 ```
+
 The `NODE_ENV=dev` is set to enable specific configurations for development purposes.
 
 ### Build and Serve the Application
 
 To build the project for production, run:
+
 ```bash
 npm run build
 ```
+
 This command transpiles the code and outputs it to the `dist/` directory. You can then serve the built application using:
+
 ```bash
 npm run serve
 ```
+
 This serves the files from the `dist/` folder.
 
 ## Environment Variables
@@ -164,6 +172,7 @@ This serves the files from the `dist/` folder.
 - **`.env`**: This file stores sensitive configuration values (e.g., API keys, database URIs) in a secure manner. Use the `dotenv` package to load these variables into the application.
 
 Example `.env` file:
+
 ```
 PORT=8080
 NODE_ENV=dev

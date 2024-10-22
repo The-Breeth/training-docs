@@ -2,8 +2,8 @@
 title: Back End
 type: docs
 weight: 3
-next: docs/Back End/leaf-1
-prev: docs/Front End
+next: docs/Back End/1leaf
+prev: docs/Getting Started/1leaf
 sidebar:
   open: false
 ---
