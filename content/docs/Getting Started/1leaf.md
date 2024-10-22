@@ -163,6 +163,6 @@ By following these steps, you have successfully set up your development environm
 ### You can choose which side you wanna pick
 
 {{< cards >}}
-{{< card link="/docs/front-end" title="Front End" icon="desktop-computer" >}}
-{{< card link="/docs/back-end" title="Back End" icon="server" >}}
+{{< card link="/training-docs/docs/front-end" title="Front End" icon="desktop-computer" >}}
+{{< card link="/training-docs/docs/back-end" title="Back End" icon="server" >}}
 {{< /cards >}}
